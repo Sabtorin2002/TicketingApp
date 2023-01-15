@@ -1,0 +1,18 @@
+﻿  Locatie.cpp
+  main.cpp
+D:\Test PO\pregatire\Project1\ProiectPOToma_Sabin\ProiectPOToma_Sabin\main.cpp(242,1): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+D:\Test PO\pregatire\Project1\ProiectPOToma_Sabin\ProiectPOToma_Sabin\main.cpp(249,1): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+D:\Test PO\pregatire\Project1\ProiectPOToma_Sabin\ProiectPOToma_Sabin\main.cpp(253,1): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+D:\Test PO\pregatire\Project1\ProiectPOToma_Sabin\ProiectPOToma_Sabin\main.cpp(259,1): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+D:\Test PO\pregatire\Project1\ProiectPOToma_Sabin\ProiectPOToma_Sabin\main.cpp(339,1): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+D:\Test PO\pregatire\Project1\ProiectPOToma_Sabin\ProiectPOToma_Sabin\main.cpp(346,1): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+D:\Test PO\pregatire\Project1\ProiectPOToma_Sabin\ProiectPOToma_Sabin\main.cpp(350,1): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+D:\Test PO\pregatire\Project1\ProiectPOToma_Sabin\ProiectPOToma_Sabin\main.cpp(356,1): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+D:\Test PO\pregatire\Project1\ProiectPOToma_Sabin\ProiectPOToma_Sabin\main.cpp(437,1): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+D:\Test PO\pregatire\Project1\ProiectPOToma_Sabin\ProiectPOToma_Sabin\main.cpp(444,1): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+D:\Test PO\pregatire\Project1\ProiectPOToma_Sabin\ProiectPOToma_Sabin\main.cpp(448,1): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+D:\Test PO\pregatire\Project1\ProiectPOToma_Sabin\ProiectPOToma_Sabin\main.cpp(454,1): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+D:\Test PO\pregatire\Project1\ProiectPOToma_Sabin\ProiectPOToma_Sabin\main.cpp(544,21): warning C4018: '<': signed/unsigned mismatch
+D:\Test PO\pregatire\Project1\ProiectPOToma_Sabin\ProiectPOToma_Sabin\main.cpp(553,21): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  ProiectPOToma_Sabin.vcxproj -> D:\Test PO\pregatire\Project1\ProiectPOToma_Sabin\Debug\ProiectPOToma_Sabin.exe

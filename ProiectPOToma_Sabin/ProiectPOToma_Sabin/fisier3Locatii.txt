@@ -1,0 +1,11 @@
+Locatia: Stadion Otelul Galati
+Tribuna 0
+
+
+Locatia: Teatrul Dramatic
+Sala Spectacol
+
+
+Locatia: Cinema City
+Sala 4
+

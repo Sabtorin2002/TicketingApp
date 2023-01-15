@@ -1,0 +1,17 @@
+IDul biletului: 4
+Numele persoanei: Toma Sabin
+Varsta persoanei: 20
+Pretul: 20
+Zona: Strada Anghel Saligny
+
+IDul biletului: 4
+Numele persoanei: Popescu Ion
+Varsta persoanei: 32
+Pretul: 50
+Zona: Strada Domneasca
+
+IDul biletului: 4
+Numele persoanei: Ionescu Pop
+Varsta persoanei: 27
+Pretul: 28
+Zona: Strada George Cosbuc
