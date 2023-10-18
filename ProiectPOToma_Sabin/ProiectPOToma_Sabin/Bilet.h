@@ -33,4 +33,5 @@ public:
 	friend ostream& operator<<(ostream&, Bilet);
 	friend istream& operator>>(istream&, Bilet&);
 
+
 };
